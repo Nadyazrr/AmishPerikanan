@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "55386347642",
+    "project_id": "perikananti6a",
+    "storage_bucket": "perikananti6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55386347642:android:4e4669c38a8800c79b03c3",
+        "android_client_info": {
+          "package_name": "com.pnj.perikanan_ti6a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55386347642-n94rh6otkr7nocf4v24gqa9mdl528k19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxyh9njiVBWnPJ6H9UBkpZIpaxcmi5_LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55386347642-n94rh6otkr7nocf4v24gqa9mdl528k19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
