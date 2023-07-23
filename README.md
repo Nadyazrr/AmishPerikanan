@@ -1,7 +1,5 @@
 # Amish Perikanan 
-<div align="center">
-  <img align="center" src="https://github.com/Nadyazrr/AmishPerikanan/blob/master/app/src/main/res/drawable/logo.png"></img>
-  </div>
+
 
 # Tentang Aplikasi
 
