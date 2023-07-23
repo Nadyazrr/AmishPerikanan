@@ -47,21 +47,8 @@ Berikut adalah daftar fitur-fitur yang terdapat pada prototype ini
 - [x] Chat
 
       
-## Penjual
-- [x] Login
-- [x] Search ikan-ikan yang dijual berdasarkan nama ikan (sebagai pembeli dan penjual)
-- [x] Menambah jenis ikan yang dijual (Penjual meng-input data ikan yang dibutuhkan)*
-- [x] Mengganti data ikan (Penjual meng-input data baru untuk ikan yang sudah ada)*
-- [x] Menghapus data ikan (Penjual menghapus data ikan yang sudah tidak dijual lagi)*
-- [x] Mengganti Password
+## Admin
 
 ## Fitur lain
-- [x] Sistem pencegahan untuk user (pembeli) memiliki akun admin (penjual)**
 - [x] Sistem email admin yang haru memiliki domain '@amis.com'
 
-
-# Note
-
-<div align="right">
-  <small>18 Juli 2023 - 03:25 README.md initialized by Mytha Shabira</small>  
-</div>
