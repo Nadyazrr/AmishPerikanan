@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "55386347642",
-    "project_id": "perikananti6a",
-    "storage_bucket": "perikananti6a.appspot.com"
+    "project_number": "467030954245",
+    "project_id": "amis-d4502",
+    "storage_bucket": "amis-d4502.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:55386347642:android:4e4669c38a8800c79b03c3",
+        "mobilesdk_app_id": "1:467030954245:android:dee36300ec7303bb91a76c",
         "android_client_info": {
           "package_name": "com.pnj.perikanan_ti6a"
         }
       },
       "oauth_client": [
         {
-          "client_id": "55386347642-n94rh6otkr7nocf4v24gqa9mdl528k19.apps.googleusercontent.com",
+          "client_id": "467030954245-g9bee9415h8unrao61pbpnv6irdhsjrj.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCxyh9njiVBWnPJ6H9UBkpZIpaxcmi5_LA"
+          "current_key": "AIzaSyAU0ntMF3EgYbAAsdlCNrc4T4XWSa2jJT0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "55386347642-n94rh6otkr7nocf4v24gqa9mdl528k19.apps.googleusercontent.com",
+              "client_id": "467030954245-g9bee9415h8unrao61pbpnv6irdhsjrj.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
