@@ -15,22 +15,6 @@ Aplikasi ini merupakan sebuah Proyek Penilaian Akhir Semester Mata Kuliah Pemrog
 | Muhammad Fahrul Rozy                    | 2007411021  |  [GitHub](https://github.com/artozy31)                                            |
 
 
-# Tools
-
-Aplikasi ini dibuat dengan menggunakan Tools [IDE Android Studio](https://developer.android.com/studio) dan menggunakan [Google Cloud Storage (Google Cloud Firestore Platform)](https://firebase.google.com/)
-<br><br>
-<div align="center">
-  <img align="left" src="https://github.com/Bagus324/marketplace_perikanan/blob/master/readme%20assets/android-studio-icon-486x512-zp9um7zl.png" height="180" width="180"></img>
-  <img align="right" src="https://github.com/Bagus324/marketplace_perikanan/blob/master/readme%20assets/firestore-logo.png" height="180" width="180"></img>
-
-  </div>
-<br><br><br><br><br><br><br><br>
-
-Aplikasi ini juga dibuat menggunakan Bahasa Pemrograman [Kotlin](https://kotlinlang.org/)
-<div align="center">
-  <img align="center" src="https://github.com/Bagus324/marketplace_perikanan/blob/master/readme%20assets/kotlin_avatar_removebg.png" height="180" width="180"></img>
-
-  </div>
 
 # Fitur
 
@@ -47,7 +31,7 @@ Berikut adalah daftar fitur-fitur yang terdapat pada prototype ini
 - [x] Chat
 
       
-## Admin
+## Admin Amis
 - [x] Login
 - [x] Melihat data ikan yang ada di Home Page
 - [x] Melakukan Edit data ikan (tambah, hapus)
