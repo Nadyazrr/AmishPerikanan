@@ -12,7 +12,7 @@ Aplikasi ini merupakan sebuah Proyek Penilaian Akhir Semester Mata Kuliah Pemrog
 | :-------------------------------------- | :---------- |  :------------------------------------------------------------------------------------------------------------------------ |
 | Mytha Shabira                           | 2007411005  |  [GitHub](https://github.com/Mythashbr)                                                                       |
 | Nadya Zahra Rahmadani                   | 2007411013  |  [GitHub](https://github.com/Nadyazrr)                                            |
-| Muhammad Fahrul Rozy                    | 2007411021  |         [                                                  |
+| Muhammad Fahrul Rozy                    | 2007411021  |  [GitHub](https://github.com/artozy31)                                            |
 
 
 # Tools
